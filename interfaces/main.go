@@ -11,8 +11,6 @@ import (
 	"fmt"
 	"log"
 	"time"
-
-	_ "github.com/lib/pq"
 )
 
 // Create our own custom ShopModel interface. Notice that it is perfectly
